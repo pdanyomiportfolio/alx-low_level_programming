@@ -3,7 +3,7 @@
 
 
 /**
- * main - Entry point
+ * main - Prints a text 
  *
  * Return: Always 0 (Success)
  */
